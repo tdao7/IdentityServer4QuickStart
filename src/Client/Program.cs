@@ -35,7 +35,7 @@ namespace Client
                 
                 //Request token with account
                 Address = disco.TokenEndpoint,
-                ClientId = "syn.client",
+                ClientId = "mvc",
                 ClientSecret = "secret",
 
                 UserName = "alice",
