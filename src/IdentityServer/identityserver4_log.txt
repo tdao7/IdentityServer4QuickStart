@@ -274,3 +274,69 @@
 2019-06-27 10:16:53.700 +07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
 2019-06-27 10:16:53.700 +07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
 2019-06-27 10:16:53.700 +07:00 [DBG] Start key discovery request
+2019-06-27 10:27:12.293 +07:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-06-27 10:27:12.323 +07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-06-27 10:27:12.326 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-06-27 10:27:12.326 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-06-27 10:27:12.326 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-06-27 10:27:12.326 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-06-27 10:27:12.326 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-06-27 10:27:12.619 +07:00 [DBG] Login Url: /Account/Login
+2019-06-27 10:27:12.621 +07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-06-27 10:27:12.621 +07:00 [DBG] Logout Url: /Account/Logout
+2019-06-27 10:27:12.621 +07:00 [DBG] ConsentUrl Url: /consent
+2019-06-27 10:27:12.621 +07:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-06-27 10:27:12.621 +07:00 [DBG] Error Url: /home/error
+2019-06-27 10:27:12.621 +07:00 [DBG] Error Id Parameter: errorId
+2019-06-27 10:28:23.663 +07:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-06-27 10:28:23.700 +07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-06-27 10:28:23.703 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-06-27 10:28:23.703 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-06-27 10:28:23.703 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-06-27 10:28:23.703 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-06-27 10:28:23.703 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-06-27 10:28:24.033 +07:00 [DBG] Login Url: /Account/Login
+2019-06-27 10:28:24.035 +07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-06-27 10:28:24.035 +07:00 [DBG] Logout Url: /Account/Logout
+2019-06-27 10:28:24.036 +07:00 [DBG] ConsentUrl Url: /consent
+2019-06-27 10:28:24.036 +07:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-06-27 10:28:24.036 +07:00 [DBG] Error Url: /home/error
+2019-06-27 10:28:24.036 +07:00 [DBG] Error Id Parameter: errorId
+2019-06-27 10:28:44.488 +07:00 [ERR] 'MS-ASPNETCORE-TOKEN' does not match the expected pairing token 'db092741-a788-4f78-ab93-c58bf0dd01d4', request rejected.
+2019-06-27 10:28:46.121 +07:00 [ERR] 'MS-ASPNETCORE-TOKEN' does not match the expected pairing token 'db092741-a788-4f78-ab93-c58bf0dd01d4', request rejected.
+2019-06-27 10:30:24.277 +07:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-06-27 10:30:24.306 +07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-06-27 10:30:24.309 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-06-27 10:30:24.309 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-06-27 10:30:24.309 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-06-27 10:30:24.309 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-06-27 10:30:24.309 +07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-06-27 10:30:24.519 +07:00 [DBG] Login Url: /Account/Login
+2019-06-27 10:30:24.521 +07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-06-27 10:30:24.521 +07:00 [DBG] Logout Url: /Account/Logout
+2019-06-27 10:30:24.521 +07:00 [DBG] ConsentUrl Url: /consent
+2019-06-27 10:30:24.521 +07:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-06-27 10:30:24.521 +07:00 [DBG] Error Url: /home/error
+2019-06-27 10:30:24.521 +07:00 [DBG] Error Id Parameter: errorId
+2019-06-27 10:30:30.180 +07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-06-27 10:30:30.186 +07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-06-27 10:30:30.187 +07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-06-27 10:30:30.191 +07:00 [DBG] Start discovery request
+2019-06-27 10:30:33.467 +07:00 [INF] AuthenticationScheme: idsrv was challenged.
+2019-06-27 10:30:38.358 +07:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-06-27 10:30:40.467 +07:00 [INF] AuthenticationScheme: idsrv was challenged.
+2019-06-27 10:31:03.546 +07:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-06-27 10:31:03.566 +07:00 [DBG] Augmenting SignInContext
+2019-06-27 10:31:03.568 +07:00 [DBG] Adding idp claim with value: local
+2019-06-27 10:31:03.568 +07:00 [DBG] Adding amr claim with value: pwd
+2019-06-27 10:31:03.578 +07:00 [INF] AuthenticationScheme: idsrv signed in.
+2019-06-27 10:31:14.147 +07:00 [DBG] CORS request made for path: /Account/Logout from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-06-27 10:31:14.164 +07:00 [INF] AuthenticationScheme: idsrv signed out.
+2019-06-27 10:31:18.329 +07:00 [INF] AuthenticationScheme: idsrv was challenged.
+2019-06-27 10:31:21.411 +07:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-06-27 10:31:26.346 +07:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-06-27 10:31:28.290 +07:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-06-27 10:32:16.426 +07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-06-27 10:32:16.426 +07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-06-27 10:32:16.426 +07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-06-27 10:32:16.427 +07:00 [DBG] Start discovery request
